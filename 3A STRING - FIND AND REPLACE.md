@@ -23,8 +23,18 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 ```
+#Reg.No: 212222060292
+#Name: Vijay Aravind S
+#Add Your Code Here
+def joinstring(s):
+    s1 = '-'.join(s)
+    print(s1)
+
 ```
 
 ### OUTPUT
+<img width="697" height="242" alt="image" src="https://github.com/user-attachments/assets/79746ae8-5adb-4134-8b83-8d65d714dac9" />
+
 
 ### RESULT
+Thus the program that defines a function to accept a string and join its characters using the hyphen (-) symbol has been implemented and executed successfully.
